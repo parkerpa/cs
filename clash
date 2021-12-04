@@ -124,35 +124,35 @@ proxies:
   - {name: 🇺🇲 US_1133 |220.94Mb, server: 104.17.170.210, port: 443, type: vmess, uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: kycc, ws-headers: {Host: lsb.stupidfellow.cf}}
   - {name: 🇺🇲 US_1134 | 4.17Mb, server: 198.200.51.34, port: 10911, type: vmess, uuid: 53e483d4-1ea9-11ec-ad60-00163cc87418, alterId: 0, cipher: auto, tls: false}
   - {name: 🇺🇲 US_1135 |20.23Mb, server: 104.19.101.3, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /gdo93qerwtyuo, ws-headers: {Host: e.fovi.tk}}
-  - {name: 🇺🇲 US_1956 | 8.82Mb, server: 209.58.139.41, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-sanfrancisco.lvuft.com}}
-  - {name: 🇺🇲 US_1957 |42.99Mb, server: 172.67.69.244, port: 443, type: vmess, uuid: 119013ea-09ad-48f9-930c-c16056ea95ba, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /sshocean, ws-headers: {Host: ru1.v2rayserv.com}}
-  - {name: 🇺🇲 US_1958 | 3.29Mb, server: sg.idvpn.me, port: 8443, type: vmess, uuid: c74e2d99-6fbd-4e87-dc25-c05348571ef1, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: HTTPS://T.ME/NGE_GASSS•HTTPS://T.ME/DUNIAVPN, ws-headers: {Host: sg.idvpn.me}}
-  - {name: 🇺🇲 US_1959 | 9.36Mb, server: zhuzhu12.com, port: 10156, type: vmess, uuid: b66d502c-5d3a-381f-9e49-fe8afdac9968, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇺🇲 US_1960 | 4.44Mb, server: 20.205.63.211, port: 13125, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇺🇲 US_1961 |21.54Mb, server: 20.205.63.211, port: 14718, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1956 | 6.53Mb, server: 209.58.139.41, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-sanfrancisco.lvuft.com}}
+  - {name: 🇺🇲 US_1957 |48.07Mb, server: 172.67.69.244, port: 443, type: vmess, uuid: 119013ea-09ad-48f9-930c-c16056ea95ba, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /sshocean, ws-headers: {Host: ru1.v2rayserv.com}}
+  - {name: 🇺🇲 US_1958 | 3.49Mb, server: sg.idvpn.me, port: 8443, type: vmess, uuid: c74e2d99-6fbd-4e87-dc25-c05348571ef1, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: HTTPS://T.ME/NGE_GASSS•HTTPS://T.ME/DUNIAVPN, ws-headers: {Host: sg.idvpn.me}}
+  - {name: 🇺🇲 US_1959 |10.24Mb, server: zhuzhu12.com, port: 10156, type: vmess, uuid: b66d502c-5d3a-381f-9e49-fe8afdac9968, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1960 |17.28Mb, server: 20.205.63.211, port: 13125, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1961 |11.90Mb, server: 20.205.63.211, port: 14718, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
   - {name: 🇺🇲 US_1962 |21.39Mb, server: v2-xgb.cl123.xyz, port: 80, type: vmess, uuid: 6d3faf56-93b6-33ca-a57d-673bb6ab696f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: v2-xgb.cl123.xyz}}
-  - {name: 🇺🇲 US_1963 | 3.16Mb, server: 104.251.233.106, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
+  - {name: 🇺🇲 US_1963 | 2.91Mb, server: 104.251.233.106, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8638, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: en.tgchannels.org/channel/vpnpool}}
   - {name: 🇺🇲 US_1964 | 9.35Mb, server: 47.242.3.85, port: 443, type: vmess, uuid: f6769679-3960-33d4-a91e-35a04bc190de, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /panel, ws-headers: {Host: s224.snode.xyz}}
-  - {name: 🇺🇲 US_1965 |21.75Mb, server: 20.205.63.211, port: 22164, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇺🇲 US_1966 |15.24Mb, server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}}
-  - {name: 🇺🇲 US_1967 |22.73Mb, server: free-russian01-cdn.xiaohouzi.club, port: 443, type: vmess, uuid: 6a7f559d-5401-44c0-b737-bb9f8820681f, alterId: 233, cipher: auto, tls: true, network: ws, ws-path: /2993fe/, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
-  - {name: 🇺🇲 US_1968 |11.00Mb, server: free-russian02-cdn.xiaohouzi.club, port: 443, type: vmess, uuid: f84136de-e03e-4b19-abb0-388d5c8614b9, alterId: 233, cipher: auto, tls: true, network: ws, ws-path: /0459ac88c41c8f/, ws-headers: {Host: free-russian02-cdn.xiaohouzi.club}}
-  - {name: 🇺🇲 US_1969 |13.44Mb, server: 45.58.150.130, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: dax6ujai.com}}
-  - {name: 🇺🇲 US_1970 | 5.26Mb, server: 154.31.41.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: chuch3go.com}}
+  - {name: 🇺🇲 US_1965 |22.80Mb, server: 20.205.63.211, port: 22164, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1966 |19.81Mb, server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-dallas.lvuft.com}}
+  - {name: 🇺🇲 US_1967 | 8.21Mb, server: free-russian01-cdn.xiaohouzi.club, port: 443, type: vmess, uuid: 6a7f559d-5401-44c0-b737-bb9f8820681f, alterId: 233, cipher: auto, tls: true, network: ws, ws-path: /2993fe/, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
+  - {name: 🇺🇲 US_1968 |15.65Mb, server: free-russian02-cdn.xiaohouzi.club, port: 443, type: vmess, uuid: f84136de-e03e-4b19-abb0-388d5c8614b9, alterId: 233, cipher: auto, tls: true, network: ws, ws-path: /0459ac88c41c8f/, ws-headers: {Host: free-russian02-cdn.xiaohouzi.club}}
+  - {name: 🇺🇲 US_1969 |20.64Mb, server: 45.58.150.130, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: dax6ujai.com}}
+  - {name: 🇺🇲 US_1970 | 5.56Mb, server: 154.31.41.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: chuch3go.com}}
   - {name: 🇺🇲 US_1971, server: 13.56.101.109, port: 80, type: vmess, uuid: c269d32f-56e3-4cc9-9029-df1c1d41809b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 13.56.101.109}}
   - {name: 🇺🇲 US_1972, server: 54.219.5.78, port: 80, type: vmess, uuid: c269d32f-56e3-4cc9-9029-df1c1d41809b, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 54.219.5.78}}
-  - {name: 🇺🇲 US_1973 |34.33Mb, server: 192.96.204.250, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
-  - {name: 🇺🇲 US_1974 |12.05Mb, server: 20.205.63.211, port: 62274, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇺🇲 US_1975 |23.74Mb, server: 20.205.63.211, port: 15724, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇺🇲 US_1976 |34.16Mb, server: usa-washington.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
-  - {name: 🇺🇲 US_1977 |10.32Mb, server: 20.205.63.211, port: 10156, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1973 |18.86Mb, server: 192.96.204.250, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
+  - {name: 🇺🇲 US_1974 |11.81Mb, server: 20.205.63.211, port: 62274, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1975 |21.86Mb, server: 20.205.63.211, port: 15724, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇺🇲 US_1976 |20.12Mb, server: usa-washington.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: usa-washington.lvuft.com}}
+  - {name: 🇺🇲 US_1977 |10.54Mb, server: 20.205.63.211, port: 10156, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
   - {name: 🇺🇲 US_1978 |19.85Mb, server: 142.4.127.67, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.47727450.xyz}}
-  - {name: 🇺🇲 US_1979 |19.80Mb, server: 20.205.63.211, port: 14083, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
-  - {name: 🇿🇦 ZA_2084 | 3.45Mb, server: Eiha7iew.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: Eiha7iew.com}}
-  - {name: 🇿🇦 ZA_2086 | 5.74Mb, server: 13.245.199.187, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: Eiha7iew.com}}
-  - {name: ZZ_2093 |26.27Mb, server: 1023sg.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 1023sg.fans8.xyz}}
-  - {name: ZZ_2094 |23.54Mb, server: 1116hk.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 1116hk.fans8.xyz}}
-  - {name: ZZ_2095 |24.10Mb, server: 715hk.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 715hk.fans8.xyz}}
+  - {name: 🇺🇲 US_1979 | 5.24Mb, server: 20.205.63.211, port: 14083, type: vmess, uuid: 8b94b74b-ce5d-3777-88f6-25aa7c7d05dd, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /zz, ws-headers: {Host: t.me/vpnhat}}
+  - {name: 🇿🇦 ZA_2084 | 7.83Mb, server: Eiha7iew.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: Eiha7iew.com}}
+  - {name: 🇿🇦 ZA_2086 | 8.61Mb, server: 13.245.199.187, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ws, ws-headers: {Host: Eiha7iew.com}}
+  - {name: ZZ_2093 |28.87Mb, server: 1023sg.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 1023sg.fans8.xyz}}
+  - {name: ZZ_2094 |23.42Mb, server: 1116hk.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 1116hk.fans8.xyz}}
+  - {name: ZZ_2095 |25.16Mb, server: 715hk.fans8.xyz, port: 80, type: vmess, uuid: 7ea3f9bb-2082-3d43-b825-6bf7a052314a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 715hk.fans8.xyz}}
   - {name: ZZ_2333 |37.94Mb, server: 198.41.212.234, port: 2082, type: vmess, uuid: 68188cc4-0e87-4da8-cd67-7c6dbcaccf6f, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /media/, ws-headers: {Host: download.jianguoyun.com}}
 proxy-groups:
   - name: 🚀 节点选择
@@ -279,35 +279,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: ♻️ 自动选择
     type: url-test
@@ -434,35 +434,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: 🌍 国外媒体
     type: select
@@ -589,35 +589,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: 📲 电报信息
     type: select
@@ -743,35 +743,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: Ⓜ️ 微软服务
     type: select
@@ -897,35 +897,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: 🍎 苹果服务
     type: select
@@ -1051,35 +1051,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: 📢 谷歌FCM
     type: select
@@ -1206,35 +1206,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
   - name: 🎯 全球直连
     type: select
@@ -1377,35 +1377,35 @@ proxy-groups:
       - 🇺🇲 US_1133 |220.94Mb
       - 🇺🇲 US_1134 | 4.17Mb
       - 🇺🇲 US_1135 |20.23Mb
-      - 🇺🇲 US_1956 | 8.82Mb
-      - 🇺🇲 US_1957 |42.99Mb
-      - 🇺🇲 US_1958 | 3.29Mb
-      - 🇺🇲 US_1959 | 9.36Mb
-      - 🇺🇲 US_1960 | 4.44Mb
-      - 🇺🇲 US_1961 |21.54Mb
+      - 🇺🇲 US_1956 | 6.53Mb
+      - 🇺🇲 US_1957 |48.07Mb
+      - 🇺🇲 US_1958 | 3.49Mb
+      - 🇺🇲 US_1959 |10.24Mb
+      - 🇺🇲 US_1960 |17.28Mb
+      - 🇺🇲 US_1961 |11.90Mb
       - 🇺🇲 US_1962 |21.39Mb
-      - 🇺🇲 US_1963 | 3.16Mb
+      - 🇺🇲 US_1963 | 2.91Mb
       - 🇺🇲 US_1964 | 9.35Mb
-      - 🇺🇲 US_1965 |21.75Mb
-      - 🇺🇲 US_1966 |15.24Mb
-      - 🇺🇲 US_1967 |22.73Mb
-      - 🇺🇲 US_1968 |11.00Mb
-      - 🇺🇲 US_1969 |13.44Mb
-      - 🇺🇲 US_1970 | 5.26Mb
+      - 🇺🇲 US_1965 |22.80Mb
+      - 🇺🇲 US_1966 |19.81Mb
+      - 🇺🇲 US_1967 | 8.21Mb
+      - 🇺🇲 US_1968 |15.65Mb
+      - 🇺🇲 US_1969 |20.64Mb
+      - 🇺🇲 US_1970 | 5.56Mb
       - 🇺🇲 US_1971
       - 🇺🇲 US_1972
-      - 🇺🇲 US_1973 |34.33Mb
-      - 🇺🇲 US_1974 |12.05Mb
-      - 🇺🇲 US_1975 |23.74Mb
-      - 🇺🇲 US_1976 |34.16Mb
-      - 🇺🇲 US_1977 |10.32Mb
+      - 🇺🇲 US_1973 |18.86Mb
+      - 🇺🇲 US_1974 |11.81Mb
+      - 🇺🇲 US_1975 |21.86Mb
+      - 🇺🇲 US_1976 |20.12Mb
+      - 🇺🇲 US_1977 |10.54Mb
       - 🇺🇲 US_1978 |19.85Mb
-      - 🇺🇲 US_1979 |19.80Mb
-      - 🇿🇦 ZA_2084 | 3.45Mb
-      - 🇿🇦 ZA_2086 | 5.74Mb
-      - ZZ_2093 |26.27Mb
-      - ZZ_2094 |23.54Mb
-      - ZZ_2095 |24.10Mb
+      - 🇺🇲 US_1979 | 5.24Mb
+      - 🇿🇦 ZA_2084 | 7.83Mb
+      - 🇿🇦 ZA_2086 | 8.61Mb
+      - ZZ_2093 |28.87Mb
+      - ZZ_2094 |23.42Mb
+      - ZZ_2095 |25.16Mb
       - ZZ_2333 |37.94Mb
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
